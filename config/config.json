@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "bingwit_backend",
+    "password": "b1n9w1t",
+    "database": "bingwit_backend",
+    "host": "127.0.0.1",
+    "operatorsAliases": "false",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "operatorsAliases": "false",
+    "dialect": "mysql"
+  },
+  "production": {
+    "host": "r42ii9gualwp7i1y.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
+    "database": "r4gahfn9sroaekbx",
+    "username": "ecqnn8tmeu6m5ujg",
+    "password": "kvm3wwb8ppwf9w1c",
+    "dialect": "mysql"
+  }
+}
