@@ -4,6 +4,7 @@ const User              = require('../models/index').User;
 const Feedback          = require('../models/index').Feedback;
 const Sequelize         = require('../models/index').Sequelize;
 const Op                = Sequelize.Op;
+/* test */
 
 /* Get all feedbacks */
 exports.get_all_feedback = async (req, res) => {
