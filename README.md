@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # anino
 golang gin framework mongodb atlas 
-=======
 # bingwit-backend
 Backend repository for the Bingwit application
 
@@ -13,4 +11,5 @@ Backend repository for the Bingwit application
 ## Usage
 1. Run setup.sh and provide mysql root password after npm install
 2. For development, run ```npm run dev```
->>>>>>> b04f3a0ae550c9643586edeaf54589882f9dfc90
+
+hello!! brothers
